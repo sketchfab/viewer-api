@@ -1,0 +1,28 @@
+{
+  "name": "@sketchfab/viewer-api",
+  "version": "1.0.0",
+  "description": "The Sketchfab Viewer API",
+  "main": "viewer-api.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sketchfab/viewer-api.git"
+  },
+  "keywords": [
+    "sketchfab",
+    "viewer-api",
+    "viewer",
+    "api"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sketchfab/viewer-api/issues"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "homepage": "https://github.com/sketchfab/viewer-api#readme"
+}
