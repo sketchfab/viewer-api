@@ -1,8 +1,8 @@
 {
   "name": "@sketchfab/viewer-api",
   "version": "1.4.0",
-  "description": "The Sketchfab Viewer API",
-  "main": "viewer-api.js",
+  "description": "The Sketchfab Viewer API. For browser purposes.",
+  "browser": "viewer-api.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -16,13 +16,44 @@
     "viewer",
     "api"
   ],
-  "author": "",
+  "author": {
+    "name": "Sketchfab",
+    "email": "contact@sketchfab.com",
+    "url": "https://sketchfab.com"
+  },
+  "contributors": [
+    {
+      "name": "Cedric Pinson",
+      "email": "cedric@sketchfab.com"
+    },
+    {
+      "name": "Paul Cheyrou-Lagreze",
+      "email": "paul@sketchfab.com"
+    },
+    {
+      "name": "Remy Bouquet",
+      "email": "remy@sketchfab.com"
+    },
+    {
+      "name": "Arthur Jamain",
+      "email": "arthur@sketchfab.com"
+    }
+  ],
+  "engines": {
+    "node": "*",
+    "npm": "*"
+  },
+  "dependencies": {},
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/sketchfab/viewer-api/issues"
+    "url": "https://help.sketchfab.com/hc/en-us/requests/new?type=viewer_api"
   },
   "publishConfig": {
     "access": "public"
   },
-  "homepage": "https://github.com/sketchfab/viewer-api#readme"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sketchfab/viewer-api"
+  },
+  "homepage": "https://sketchfab.com/developers/viewer"
 }
