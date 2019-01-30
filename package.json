@@ -1,6 +1,6 @@
 {
   "name": "@sketchfab/viewer-api",
-  "version": "1.4.0",
+  "version": "1.4.1",
   "description": "The Sketchfab Viewer API. For browser purposes.",
   "browser": "viewer-api.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sketchfab/viewer-api.git"
+    "url": "https://github.com/sketchfab/viewer-api"
   },
   "keywords": [
     "sketchfab",
@@ -50,10 +50,6 @@
   },
   "publishConfig": {
     "access": "public"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/sketchfab/viewer-api"
   },
   "homepage": "https://sketchfab.com/developers/viewer"
 }
