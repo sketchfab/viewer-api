@@ -2,6 +2,7 @@
   "name": "@sketchfab/viewer-api",
   "version": "1.9.0",
   "description": "The Sketchfab Viewer API. For browser purposes.",
+  "main": "viewer-api.js",
   "browser": "viewer-api.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
