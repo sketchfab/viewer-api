@@ -1,4 +1,4 @@
-<img src="https://static.sketchfab.com/img/press/logos/logo.png" alt="drawing" width="18"/>  Sketchfab Viewer API
+<img src="https://static.sketchfab.com/img/press/logos/sketchfab-logo.png" alt="drawing" width="18"/>  Sketchfab Viewer API
 ---
 
 The Sketchfab Viewer API is a small browser-targeted lib that lets you manipulate the sketchfab viewer inside an embed. 
