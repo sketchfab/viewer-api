@@ -1,6 +1,6 @@
 {
   "name": "@sketchfab/viewer-api",
-  "version": "1.12.0-beta",
+  "version": "1.12.0",
   "description": "The Sketchfab Viewer API. For browser purposes.",
   "main": "viewer-api.js",
   "browser": "viewer-api.js",
